@@ -13,18 +13,18 @@
 </div>
 
 :man_technologist: About Me :
-I am a Full Stack Developer from Indonesia.
-- :telescope: I’m Searching a job as a Software Engineer and contributing to frontend and backend for building web applications.
+I am a Full Stack Web Developer from Jakarta, Indonesia.
+- :telescope: I’m Searching a job as a Full Stack Web Developer contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: I can work as a team using git and github.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ihsan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ihsan-ali-suwarno-712845228/)
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Programming Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
