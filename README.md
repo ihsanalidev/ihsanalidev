@@ -13,7 +13,7 @@
 </div>
 
 :man_technologist: About Me :
-I am a Full Stack Web Developer from Jakarta, Indonesia.
+I am a Full Stack Web Developer from Bogor, Indonesia.
 - :telescope: I’m Searching a job as a Full Stack Web Developer contributing to frontend and backend for building web applications.
 
 - :seedling: I can work as a team using git and github.
